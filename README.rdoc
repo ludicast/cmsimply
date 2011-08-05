@@ -1,3 +1,3 @@
 = Cmsimply
 
-This project rocks and uses MIT-LICENSE.
+This project lets you at view pages for individual routes.
